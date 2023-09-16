@@ -1,0 +1,8 @@
+names:
+- window
+- empty
+- filled
+nc: 3
+path: ..
+train: images
+val: images
